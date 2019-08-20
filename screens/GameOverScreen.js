@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   card: {
-    padding: 40
+    padding: 42
   }
 });
 

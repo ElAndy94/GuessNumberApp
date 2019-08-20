@@ -106,11 +106,11 @@ const StartGameScreen = props => {
 const styles = StyleSheet.create({
   screen: {
     flex: 1,
-    padding: 10,
+    padding: 12,
     alignItems: 'center'
   },
   title: {
-    fontSize: 20,
+    fontSize: 22,
     marginVertical: 10,
     marginBottom: 20,
     fontFamily: 'open-sans-bold'
