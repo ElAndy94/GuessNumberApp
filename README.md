@@ -27,4 +27,4 @@ Run Npm start or yarn start on the backend and on the client.
 
 * [Yarn](https://yarnpkg.com/en/) - Dependency Management
 * [Node](https://nodejs.org/en/) - Server
-* [React Native] - Language used.
+* [React Native](https://facebook.github.io/react-native/) - Language used.
